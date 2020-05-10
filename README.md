@@ -1,0 +1,2 @@
+# MeanApp
+Basic Mean App.
